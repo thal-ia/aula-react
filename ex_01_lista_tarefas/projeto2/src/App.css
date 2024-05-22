@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+ul {
+  padding:0%;
+  list-style-type: disc;
+}
+
+li {
+  margin-top: 10px;
+  list-style-type: disc;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+button{
+  background-color: beige;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
